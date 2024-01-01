@@ -1,0 +1,14 @@
+{
+  "name": "fem-product-preview-card-component",
+  "version": "1.0.0",
+  "description": "a Frontend Mentor project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass main.scss styles.css"
+  },
+  "author": "Manish Patel",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
